@@ -1,2 +1,0 @@
-Hi my First file in git Repo
-data added to this file 
